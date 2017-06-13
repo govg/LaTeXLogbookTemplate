@@ -10,7 +10,7 @@
 
 # High level folder structure
 YEARFROM=2017
-YEARTO=2020
+YEARTO=2018
 
 
 #Number of days in each month, leaps years handled later.
